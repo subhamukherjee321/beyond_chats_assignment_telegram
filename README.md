@@ -15,8 +15,27 @@ User Friendly UI ....
 
 # Deployed URL 👉 [Click here](https://beyond-chats-assignment-telegram.vercel.app/)
 
+## Getting Started
+
+First Clone The Repo By Click On The Code And HTTPS or SSH Copy The Link:
+Then Run Open Terminal And Run The Command
+```bash
+git clone paste the copied link
+```
+Then
+```bash
+npm install
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
 ## Contact Details
-Subha Mukherjee (My Linkedin Profile :- https://www.linkedin.com/in/subha-mukherjee-652a551ba/) <br/>
+Subha Mukherjee Linkedin Profile :- https://www.linkedin.com/in/subha-mukherjee-652a551ba/) <br/>
 Contact No : +91 8759290035 <br/>
 Gmail : subhamukherjee321@gmail.com
 
