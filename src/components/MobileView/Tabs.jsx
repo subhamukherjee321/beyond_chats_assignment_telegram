@@ -27,7 +27,7 @@ const Tabs = () => {
         >
           {activeTab === "All Chats" && <ChatBox />}
           {activeTab === "Active" && (
-            <div className="text-2xl bg-red-600">Active Content</div>
+            <div className="text-2xl">Active Content</div>
           )}
           {activeTab === "Unread" && (
             <div className="text-2xl">Unread Content</div>
