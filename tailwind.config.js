@@ -4,8 +4,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        "darkChatBg": "url('./src/assets/telegram-bg.png')",
-        "lightChatBg": "url('./src/assets/chat-light-bg.png')",
+        "darkChatBg": "url('./public/telegram-bg.png')",
+        "lightChatBg": "url('./public/chat-light-bg.png')",
       },
     },
   },
