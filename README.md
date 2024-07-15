@@ -4,7 +4,7 @@
 This is the clone of Telegram App only the UI with theme change feature
 User Friendly UI .... 
 
-## Available Scripts
+## Tech Stack Used
 * React.js
 * Vite
 * React-Router-Dom
@@ -13,8 +13,12 @@ User Friendly UI ....
 * Tailwind CSS
 <br/>
 
-## Link
-* Visit The Deployed Site :- [Click Here](https://beyond-chats-assignment-telegram.vercel.app/) <br/>
+# Deployed URL 👉 [Click here](https://beyond-chats-assignment-telegram.vercel.app/)
+
+## Contact Details
+Subha Mukherjee (My Linkedin Profile :- https://www.linkedin.com/in/subha-mukherjee-652a551ba/) <br/>
+Contact No : +91 8759290035 <br/>
+Gmail : subhamukherjee321@gmail.com
 
 
 ## Desktop Screen with Dark Mode View
