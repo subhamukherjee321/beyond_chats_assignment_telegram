@@ -27,7 +27,9 @@ const Message = () => {
   return (
     <div
       className={`${
-        theme ? "bg-darkChatBg" : "bg-lightChatBg"
+        theme
+          ? "bg-[url('../../../public/telegram-bg.png')]"
+          : "bg-[url('../../../public/chat-light-bg.png')]"
       } bg-cover bg-no-repeat flex justify-between flex-col pb-[1.5rem] w-full md:w-[75%] md:pl-0 h-[100vh]`}
     >
       <MessageNav />
