@@ -28,8 +28,8 @@ const Message = () => {
     <div
       className={`${
         theme
-          ? "bg-[url('/telegram-bg.png')] bg-[#002D62]"
-          : "bg-[url('/chat-light-bg.png')] bg-[#F0F8FF]"
+          ? "bg-[url('/telegram-bg.png')]"
+          : "bg-[url('/chat-light-bg.png')]"
       } bg-cover bg-no-repeat flex justify-between flex-col pb-[1.5rem] w-full md:w-[75%] md:pl-0 h-[100vh]`}
     >
       <MessageNav />
