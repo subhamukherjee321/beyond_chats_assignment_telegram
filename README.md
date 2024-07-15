@@ -1,8 +1,7 @@
 # BeyondChats Assignment
 ### Assignment from the BeyondChats company completed by 2 days
 
-This is the clone of Telegram App only the UI with theme change feature
-User Friendly UI .... 
+This is the clone of the Telegram App only the UI with a theme change feature. User-Friendly UI with Dark and Light Theme Mode Control.
 
 ## Tech Stack Used
 * React.js
