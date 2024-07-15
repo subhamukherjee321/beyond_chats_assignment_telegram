@@ -1,4 +1,4 @@
-# BeyondChats
+# BeyondChats Assignment
 ### Assignment from the BeyondChats company completed by 2 days
 
 This is the clone of Telegram App only the UI with theme change feature
@@ -11,33 +11,30 @@ User Friendly UI ....
 * Zustand 
 * Axios
 * Tailwind CSS
-
+<br/>
 
 ## Link
-* Visit The Deployed Site :- [Click Here](https://beyond-chats-assignment-telegram.vercel.app/)
-
-## Home
-![Home](https://user-images.githubusercontent.com/107465630/214306318-0d37191d-645e-4ea9-a9a2-04211f06ec46.png)
-![Footer](https://user-images.githubusercontent.com/107465630/214306681-8cd3f655-cba7-4417-b4cf-fa7f586d7d02.png)
-
-## Product Page
-![Products](https://user-images.githubusercontent.com/107465630/214306382-155623a8-cef4-474c-b4d3-3495c74a31d2.png)
+* Visit The Deployed Site :- [Click Here](https://beyond-chats-assignment-telegram.vercel.app/) <br/>
 
 
-## Product details
-![product Details](https://user-images.githubusercontent.com/107465630/214306446-c5d384be-33be-45c3-9f1d-acd9f5823e91.png)
+## Desktop Screen with Dark Mode View
+![desktop-darkmode](https://github.com/user-attachments/assets/f096dca4-2e86-47f9-b8d2-73ad8860e0a8) <br/>
 
-## Signup & Login
-![Authantication](https://user-images.githubusercontent.com/107465630/214306471-893797da-fb45-4e75-9d3a-9970cd779714.png)
 
-## Cart
-![cart](https://user-images.githubusercontent.com/107465630/214306522-336a4088-6456-49a9-bd4d-4595ca9025cf.png)
+## Desktop Screen with Light Mode View
+![desktop-lightmode](https://github.com/user-attachments/assets/04980eb1-f06e-40bb-b4ef-df13899ad840) <br/>
 
-## Payment & Checkout
-![checkkout   payment](https://user-images.githubusercontent.com/107465630/214306552-06cc1d91-e911-4f8c-a195-38f70627ac59.png)
 
-## Admin 
-![admin 4](https://user-images.githubusercontent.com/107465630/214568878-9315a1ad-81e5-4d05-b5e9-eeb08932e440.png)
-![product_admin](https://user-images.githubusercontent.com/107465630/214568895-f99cd61d-60b8-40a7-8a8b-3d9ca0b5680d.png)
-![userdatails](https://user-images.githubusercontent.com/107465630/214568911-fdb72b73-a401-4775-916f-eeee09083a5c.png)
-![admin5](https://user-images.githubusercontent.com/107465630/214306601-2d048f07-a017-4650-832b-be34e15794bd.png)
+
+## Mobile Screen with Dark Mode View Home page
+![mobile-dark](https://github.com/user-attachments/assets/368edad9-4df7-4f80-8ff0-573601f62e9e) <br/>
+
+
+## Mobile Screen with Light Mode View Home Page
+![mobile-lightmode](https://github.com/user-attachments/assets/f3073422-90fc-4e67-8388-391203ae2977) <br/>
+
+## Mobile Screen with Dark Mode View Chat page
+![image](https://github.com/user-attachments/assets/22a5ef01-b7b6-419a-84ad-cc43b4d4b81b) <br/>
+
+## Mobile Screen with Light Mode View Chat page
+![image](https://github.com/user-attachments/assets/266b2f27-0b47-4515-bb26-f6d7285ab27b)
