@@ -35,9 +35,9 @@ bun dev
 ```
 
 ## Contact Details
-Subha Mukherjee Linkedin Profile :- https://www.linkedin.com/in/subha-mukherjee-652a551ba/) <br/>
-Contact No : +91 8759290035 <br/>
-Gmail : subhamukherjee321@gmail.com
+Subha Mukherjee Linkedin Profile :- https://www.linkedin.com/in/subha-mukherjee-652a551ba/ <br/>
+Contact No :- +91 8759290035 <br/>
+Gmail :- subhamukherjee321@gmail.com
 
 
 ## Desktop Screen with Dark Mode View
