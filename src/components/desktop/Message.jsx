@@ -31,6 +31,7 @@ const Message = () => {
           ? "bg-[url('../../../public/telegram-bg.png')]"
           : "bg-[url('../../../public/chat-light-bg.png')]"
       } bg-cover bg-no-repeat flex justify-between flex-col pb-[1.5rem] w-full md:w-[75%] md:pl-0 h-[100vh]`}
+      style={{backgroundImage: theme ? "url('../../../public/telegram-bg.png')" : "url('../../../public/chat-light-bg.png')"}}
     >
       <MessageNav />
       <MessageContainer
